@@ -1,0 +1,10 @@
+{
+  "common": {
+    "version": "Version",
+    "invalid_configuration": "Configuracion Invalida",
+    "show_warning": "Mostrar Avisos",
+    "show_error": "Mostrar Errroress",
+    "rate": "Intensidad por hora",
+    "total": "Total"
+  }
+}
